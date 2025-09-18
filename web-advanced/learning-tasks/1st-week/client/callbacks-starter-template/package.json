@@ -1,0 +1,14 @@
+{
+  "name": "week1-demo-callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evert Duipmans",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
